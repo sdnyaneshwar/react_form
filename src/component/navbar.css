@@ -1,0 +1,11 @@
+.box{
+    height: 50px;
+    width: 100%;
+    background-color: bisque;
+}
+.name{
+    padding: 10px;
+    font-size: larger;
+    color: darkolivegreen;
+
+}
